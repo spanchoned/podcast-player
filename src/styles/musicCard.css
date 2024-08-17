@@ -1,0 +1,17 @@
+.music-card {
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+  }
+  
+  .music-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .music-card h3, .music-card p {
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,11 @@
+.content {
+    padding: 20px;
+    margin-left: 250px; /* Para evitar superposición con la sidebar */
+  }
+  
+  .music-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
