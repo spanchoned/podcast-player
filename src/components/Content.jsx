@@ -1,6 +1,7 @@
 import React from 'react';
 import MusicCard from './MusicCard';
 import '../styles/content.css';
+import image from './assets/imgs';
 
 const Content = () => {
   return (

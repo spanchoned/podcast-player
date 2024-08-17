@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/musicCard.css';
+import image from './assets/imgs';
 
 
 const MusicCard = ({ title, artist }) => {
